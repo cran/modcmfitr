@@ -1,0 +1,17 @@
+b8dd6d138ae56604d1f71098a2544af5 *DESCRIPTION
+e81df7be52da15dea739e5533a6f0aee *NAMESPACE
+f400dad00951fcc0b845f4d2a690d992 *NEWS.md
+1600bae3aff2733310088364b2910b8d *R/modcmfitr.R
+5453d0d5249404e24e1cf91d7ea0aece *R/modcmfitrFunctions.R
+b2856bd0621bb1c7ca0671d0280719f8 *README.md
+855aacb58faafb6057262207187cda32 *build/vignette.rds
+ebb4f894990c773247ae555436e98186 *inst/doc/modcmfitrOverview.R
+55dda4e52fb316379364404da656d417 *inst/doc/modcmfitrOverview.Rmd
+99670d0a87353635585fa333f309f1ed *inst/doc/modcmfitrOverview.pdf
+398ea456a54f808b20218301715139b3 *man/fitDirichlet.Rd
+a9ba71d0fd3d6d302dab993cc999bdc4 *man/fitModCM.Rd
+bc7e978a283cce26aa05514314353e76 *man/fitMultiplemCM.Rd
+d349eeb4a43abcb9db429f4b2efe6bd1 *man/mergeMultiplemCM.Rd
+9da279ddda8c36ae25d236340bb84b58 *man/modcmfitr.Rd
+854260fb2e5545e4cbb7beae6c90bb6d *man/rModCM.Rd
+55dda4e52fb316379364404da656d417 *vignettes/modcmfitrOverview.Rmd
